@@ -71,4 +71,5 @@ However, feel free to open issues or suggestions.
 If you’d like to connect or collaborate, reach out via:
 
 LinkedIn: linkedin.com/in/ahmad-ali-kamal
+
 GitHub: github.com/ahmad-ali-kamal
